@@ -3,8 +3,8 @@
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
 (    Drawing          : AWheel.brd                                    )
-(    Software Version : 16.6-2015S102                                 )
-(    Date/Time        : Wed Apr 25 17:44:10 2018                      )
+(    Software Version : 16.6-2015S088                                 )
+(    Date/Time        : Wed Apr 25 19:35:42 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            'D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD'
 Old design name:             'D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/AWheel.brd'
 New design name:             'D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/AWheel.brd'
 
-CmdLine: netrev -$ -i D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/DSN/netlist -y 2 -q netrev_constraint_report.xml D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/#Taaaaab04476.tmp
+CmdLine: netrev -$ -i D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/DSN/netlist -y 2 -q netrev_constraint_report.xml D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/#Taaaadz04180.tmp
 
 ------ Preparing to read pst files ------
 
@@ -36,15 +36,12 @@ Starting to read D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/DSN/netlist/pstxnet.dat
 ------ Oversights/Warnings/Errors ------
 
 
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'LED0603' used by RefDes D35 for device 'LED_0_LED0603_LED' not found in PSMPATH or must be "dbdoctor"ed.
-
 ------ Library Paths ------
 MODULEPATH =  . 
            C:/Cadence/SPB_16.6/share/local/pcb/modules 
 
-PSMPATH =  . 
+PSMPATH =  D:/Cadence/lib/ 
+           . 
            symbols 
            .. 
            ../symbols 
@@ -52,7 +49,8 @@ PSMPATH =  .
            C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
            C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
 
-PADPATH =  . 
+PADPATH =  D:/Cadence/lib/ 
+           . 
            symbols 
            .. 
            ../symbols 
@@ -64,7 +62,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Apr 25 17:44:10 2018
+netrev run on Apr 25 19:35:42 2018
    DESIGN NAME : 'AWHEEL'
    PACKAGING ON Feb 15 2016 19:53:59
 
@@ -87,8 +85,8 @@ netrev run on Apr 25 17:44:10 2018
 
  No error detected
  No oversight detected
-  1 warnings detected
+ No warning detected
 
-cpu time      0:00:39
+cpu time      0:00:40
 elapsed time  0:00:00
 

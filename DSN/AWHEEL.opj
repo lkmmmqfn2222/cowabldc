@@ -210,16 +210,24 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\awheel.dsn")
-      (Path "Design Resources" ".\awheel.dsn" "MAIN")
-      (Path "Design Resources" ".\awheel.dsn" "BLDC ENC")
-      (Path "Design Resources" ".\awheel.dsn" "MCU")
-      (Path "Design Resources" ".\awheel.dsn" "MOSFET DRV")
-      (Path "Design Resources" ".\awheel.dsn" "POWER")
-      (Path "Design Resources" ".\awheel.dsn" "TSENSOR")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn" "MAIN")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn" "BLDC ENC")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn" "MCU")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn" "MOSFET DRV")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn" "POWER")
+      (Path "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn" "TSENSOR")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\awheel.dsn" "POWER" "POWER"))
+      (Select "Design Resources"
+         "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -240,7 +248,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1090 0 469")
-        (Scroll "0 618")
+        (Scroll "191 491")
         (Zoom "184")
         (Occurrence "/POWER"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
@@ -250,7 +258,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1116 26 495")
-        (Scroll "0 106")
+        (Scroll "473 475")
         (Zoom "136")
         (Occurrence "/MOSDRV"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
@@ -259,8 +267,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1142 52 521")
-        (Scroll "-75 0")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1142 52 521")
+        (Scroll "-346 -4")
         (Zoom "92")
         (Occurrence "/ENC"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
@@ -270,8 +278,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1246 156 625")
-        (Scroll "-36 39")
-        (Zoom "100")
+        (Scroll "191 528")
+        (Zoom "184")
         (Occurrence "/TSEN"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
       (Schematic "TSENSOR")
@@ -280,7 +288,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 130 1220 130 599")
-        (Scroll "372 408")
+        (Scroll "191 454")
         (Zoom "184")
         (Occurrence "/MCU"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")

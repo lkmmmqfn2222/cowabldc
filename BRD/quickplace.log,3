@@ -3,23 +3,190 @@
 (    QUICKPLACE LOG                                                   )
 (                                                                     )
 (    Drawing          : AWheel.brd                                    )
-(    Software Version : 16.6-2015S102                                 )
-(    Date/Time        : Wed Apr 25 15:55:39 2018                      )
+(    Software Version : 16.6-2015S091                                 )
+(    Date/Time        : Wed Apr 25 19:34:03 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 State: Placing on layer TOP
 
-ERROR:   Could not find symbol:  D35 / LED_0_LED0603_LED / LED0603
-ERROR:   Could not find symbol:  D36 / LED_0_LED0603_LED / LED0603
-ERROR:   Could not find symbol:  D37 / LED_0_LED0603_LED / LED0603
-         Placed symbol:  R58 / R_R0603_4.7K / R0603 at (-2889.756 1217.102)
-         Placed symbol:  R57 / R_R0603_2.2K / R0603 at (-2771.756 1217.102)
-         Placed symbol:  R56 / R_R0603_16.9K / R0603 at (-2653.756 1217.102)
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
 
 
-Placed 3 of 6 applicable (6 total) symbols.
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_G_LED / LED0603_G
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_G_LED / LED0603_G
+
+
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (3 total) symbols.
 
 -----------------------------------------------------------------------
 
