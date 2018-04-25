@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Apr-25-2018 at 10:58:16 }
+{ Using PSTWRITER 16.6.0 d001Apr-25-2018 at 17:43:35 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.36" ignored for U7: MCU, MCU (2.40, 1.50). Connecting pin to net "PF7".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.46" ignored for U7: MCU, MCU (2.40, 1.50). Connecting pin to net "PB9".

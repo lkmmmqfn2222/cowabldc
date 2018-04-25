@@ -1,0 +1,54 @@
+\t (00:00:17) allegro 16.6-2015 S102 (v16-6-112HN) Windows 32
+\t (00:00:17)     Journal start - Wed Apr 25 17:44:01 2018
+\t (00:00:17)         Host=LAPTOP-4585OCVC User=lenovo Pid=4476 CPUs=4
+\t (00:00:17) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:17) 
+\d (00:00:17) Design opened: D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/AWheel.brd
+\i (00:00:17) generaledit 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -2631.580 -411.255
+\i (00:00:18) trapsize 56625
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -1317.873 1729.179
+\i (00:00:18) trapsize 28313
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -1317.872 1729.179
+\i (00:00:18) trapsize 14156
+\i (00:00:20) feedback 
+\i (00:00:22) setwindow form.netout
+\i (00:00:22) FORM netout close  
+\i (00:00:22) setwindow pcb
+\i (00:00:22) generaledit 
+\i (00:00:23) netin 
+\i (00:00:25) setwindow form.niparams
+\i (00:00:25) FORM niparams import  
+\t (00:00:25) Starting Cadence Logic Import...
+\w (00:00:26) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:26) Opening existing design...
+\i (00:00:26) setwindow pcb
+\i (00:00:26) trapsize 14156
+\i (00:00:27) generaledit 
+\i (00:00:28) setwindow text
+\i (00:00:28) close 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) pick grid -822.401 1765.986
+\t (00:00:28) last pick:  -820.000 1765.000
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out -700.657 1785.805
+\i (00:00:29) trapsize 28313
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out -604.394 1819.780
+\i (00:00:29) trapsize 56625
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -60.791 1423.403
+\i (00:00:29) trapsize 28313
+\i (00:00:31) exit 
+\e (00:00:31) Do you want to save the changes you made to D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/AWheel.brd?
+\i (00:00:32) fillin yes 
+\t (00:00:32)     Journal end - Wed Apr 25 17:44:16 2018

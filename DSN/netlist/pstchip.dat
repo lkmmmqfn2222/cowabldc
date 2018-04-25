@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Apr-25-2018 at 10:58:18}
+{ Using PSTWRITER 16.6.0 d001Apr-25-2018 at 17:43:36}
 primitive 'CAP NP_C0603_0.1UF';
   pin
     '1':
@@ -271,6 +271,21 @@ primitive 'DIODE  TRIG_SMA_SMAJ18A';
     PART_NAME='DIODE  TRIG';
     JEDEC_TYPE='SMA';
     VALUE='SMAJ18A';
+  end_body;
+end_primitive;
+primitive 'LED_0_LED0603_LED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED_0';
+    JEDEC_TYPE='LED0603';
+    VALUE='LED';
   end_body;
 end_primitive;
 primitive 'MH8_0_H_M2_6_MECHANICAL HOLE';

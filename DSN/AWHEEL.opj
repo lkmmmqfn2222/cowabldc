@@ -111,6 +111,10 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (CON6
       (FullPartName "CON6.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -202,10 +206,6 @@
     (MT1470
       (FullPartName "MT1470.Normal")
       (LibraryName "D:\CADENCE\CAIRNEOLB.OLB")
-      (DeviceIndex "0"))
-    (CAP
-      (FullPartName "CAP.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -219,19 +219,19 @@
       (Path "Design Resources" ".\awheel.dsn" "TSENSOR")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\awheel.dsn"))
+      (Select "Design Resources" ".\awheel.dsn" "POWER" "POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 781"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1270 52 328")
-        (Scroll "191 624")
-        (Zoom "184")
+        (Scroll "-139 0")
+        (Zoom "92")
         (Occurrence "/"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
       (Schematic "MAIN")
@@ -240,7 +240,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1090 0 469")
-        (Scroll "173 645")
+        (Scroll "0 618")
         (Zoom "184")
         (Occurrence "/POWER"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
@@ -250,8 +250,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1116 26 495")
-        (Scroll "-4 0")
-        (Zoom "68")
+        (Scroll "0 106")
+        (Zoom "136")
         (Occurrence "/MOSDRV"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
       (Schematic "MOSFET DRV")
@@ -260,8 +260,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1142 52 521")
-        (Scroll "0 0")
-        (Zoom "200")
+        (Scroll "-75 0")
+        (Zoom "92")
         (Occurrence "/ENC"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
       (Schematic "BLDC ENC")
@@ -270,7 +270,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1246 156 625")
-        (Scroll "-36 41")
+        (Scroll "-36 39")
         (Zoom "100")
         (Occurrence "/TSEN"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")
@@ -279,8 +279,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1220 130 599")
-        (Scroll "191 372")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1220 130 599")
+        (Scroll "372 408")
         (Zoom "184")
         (Occurrence "/MCU"))
       (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.DSN")

@@ -1,4 +1,4 @@
-Date and Time : 04/24/18 16:45:06
+Date and Time : 04/25/18 15:54:59
 
 --------------------------------------------------
 Checking Schematic: TSENSOR
@@ -33,28 +33,24 @@ Checking Schematic: MCU
 Checking Electrical Rules 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): Net has fewer than two connections PC14 
-                    MCU, MCU  (2.30, 2.10) 
-WARNING(ORCAP-1600): Net has fewer than two connections PA11 
-                    MCU, MCU  (5.50, 2.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections PA5 
-                    MCU, MCU  (3.00, 4.50) 
-WARNING(ORCAP-1600): Net has fewer than two connections PC15 
-                    MCU, MCU  (2.30, 2.20) 
-WARNING(ORCAP-1600): Net has fewer than two connections PF7 
-                    MCU, MCU  (5.50, 1.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections PA15 
-                    MCU, MCU  (3.80, 1.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections PF6 
-                    MCU, MCU  (5.50, 2.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections PB12 
-                    MCU, MCU  (5.50, 3.00) 
-WARNING(ORCAP-1600): Net has fewer than two connections PB8 
-                    MCU, MCU  (3.10, 1.40) 
-WARNING(ORCAP-1600): Net has fewer than two connections PA12 
-                    MCU, MCU  (5.50, 2.20) 
 WARNING(ORCAP-1600): Net has fewer than two connections PC13 
                     MCU, MCU  (2.30, 2.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA11 
+                    MCU, MCU  (5.50, 2.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB12 
+                    MCU, MCU  (5.50, 3.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC15 
+                    MCU, MCU  (2.30, 2.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA12 
+                    MCU, MCU  (5.50, 2.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA5 
+                    MCU, MCU  (3.00, 4.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections PC14 
+                    MCU, MCU  (2.30, 2.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections PA15 
+                    MCU, MCU  (3.80, 1.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections PB8 
+                    MCU, MCU  (3.10, 1.40) 
 
 Checking For Unconnected Bus Nets
 

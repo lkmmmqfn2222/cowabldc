@@ -4,17 +4,30 @@
 (                                                                     )
 (    Drawing          : AWheel.brd                                    )
 (    Software Version : 16.6-2015S102                                 )
-(    Date/Time        : Wed Apr 25 10:58:28 2018                      )
+(    Date/Time        : Wed Apr 25 15:56:32 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 State: Placing on layer TOP
 
-         Placed symbol:  C84 / CAP NP_C0603_0.1UF / C0603 at (-2889.756 1214.102)
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_LED / LED0603
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_LED / LED0603
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_LED / LED0603
 
 
-Placed 1 of 1 applicable (1 total) symbols.
+Placed 0 of 3 applicable (3 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D35 / LED_0_LED0603_LED / LED0603
+ERROR:   Could not find symbol:  D36 / LED_0_LED0603_LED / LED0603
+ERROR:   Could not find symbol:  D37 / LED_0_LED0603_LED / LED0603
+
+
+Placed 0 of 3 applicable (3 total) symbols.
 
 -----------------------------------------------------------------------
 

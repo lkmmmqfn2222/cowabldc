@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Apr-24-2018 at 16:53:08 }
+{ Using PSTWRITER 16.6.0 d001Apr-25-2018 at 15:55:14 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='AWHEEL';
@@ -828,6 +828,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ C84 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):MCU@AWHEEL.MCU(SCH_1):INS72058@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):mcu@awheel.mcu(sch_1):ins72058@discrete.\cap np.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_mcu@awheel.mcu(sch_1):page3_ins72058@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  C9 'CAP NP_C0603_0.1UF':;
 
 SECTION_NUMBER 1
@@ -1104,6 +1114,36 @@ SECTION_NUMBER 1
  '@AWHEEL.MAIN(SCH_1):TSEN@AWHEEL.TSENSOR(SCH_1):INS65798@CAIRNEOLB.DIODE  TRIG.NORMAL(CHIPS)':
  C_PATH='@awheel.main(sch_1):tsen@awheel.tsensor(sch_1):ins65798@cairneolb.\diode  trig.normal\(chips)',
  P_PATH='@awheel.main(sch_1):page1_tsen@awheel.tsensor(sch_1):page6_ins65798@cairneolb.\diode  trig.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D35 'LED_0_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):POWER@AWHEEL.POWER(SCH_1):INS91802@AWHEEL.LED_0.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):power@awheel.power(sch_1):ins91802@awheel.\led_0.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_power@awheel.power(sch_1):page5_ins91802@awheel.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D36 'LED_0_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):POWER@AWHEEL.POWER(SCH_1):INS92346@AWHEEL.LED_0.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):power@awheel.power(sch_1):ins92346@awheel.\led_0.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_power@awheel.power(sch_1):page5_ins92346@awheel.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D37 'LED_0_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):POWER@AWHEEL.POWER(SCH_1):INS92574@AWHEEL.LED_0.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):power@awheel.power(sch_1):ins92574@awheel.\led_0.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_power@awheel.power(sch_1):page5_ins92574@awheel.\led_0.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1978,6 +2018,56 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R54 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):MCU@AWHEEL.MCU(SCH_1):INS71030@PORTWELL.R.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):mcu@awheel.mcu(sch_1):ins71030@portwell.\r.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_mcu@awheel.mcu(sch_1):page3_ins71030@portwell.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):MCU@AWHEEL.MCU(SCH_1):INS71056@PORTWELL.R.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):mcu@awheel.mcu(sch_1):ins71056@portwell.\r.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_mcu@awheel.mcu(sch_1):page3_ins71056@portwell.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_R0603_16.9K':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):POWER@AWHEEL.POWER(SCH_1):INS91713@PORTWELL.R.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):power@awheel.power(sch_1):ins91713@portwell.\r.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_power@awheel.power(sch_1):page5_ins91713@portwell.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_R0603_2.2K':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):POWER@AWHEEL.POWER(SCH_1):INS92305@PORTWELL.R.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):power@awheel.power(sch_1):ins92305@portwell.\r.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_power@awheel.power(sch_1):page5_ins92305@portwell.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_R0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@AWHEEL.MAIN(SCH_1):POWER@AWHEEL.POWER(SCH_1):INS92512@PORTWELL.R.NORMAL(CHIPS)':
+ C_PATH='@awheel.main(sch_1):power@awheel.power(sch_1):ins92512@portwell.\r.normal\(chips)',
+ P_PATH='@awheel.main(sch_1):page1_power@awheel.power(sch_1):page5_ins92512@portwell.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R6 'R_R0603_120R':;
 
 SECTION_NUMBER 1
@@ -2138,32 +2228,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP19 'TP_TP100_TP':;
-
-SECTION_NUMBER 1
- '@AWHEEL.MAIN(SCH_1):MCU@AWHEEL.MCU(SCH_1):INS70946@CAIRNEOLB.TP.NORMAL(CHIPS)':
- C_PATH='@awheel.main(sch_1):mcu@awheel.mcu(sch_1):ins70946@cairneolb.\tp.normal\(chips)',
- P_PATH='@awheel.main(sch_1):page1_mcu@awheel.mcu(sch_1):page3_ins70946@cairneolb.\tp.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  TP2 'TP_TP100_TP':;
 
 SECTION_NUMBER 1
  '@AWHEEL.MAIN(SCH_1):ENC@AWHEEL.BLDC ENC(SCH_1):INS66792@CAIRNEOLB.TP.NORMAL(CHIPS)':
  C_PATH='@awheel.main(sch_1):enc@awheel.\bldc enc\(sch_1):ins66792@cairneolb.\tp.normal\(chips)',
  P_PATH='@awheel.main(sch_1):page1_enc@awheel.\bldc enc\(sch_1):page2_ins66792@cairneolb.\tp.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP20 'TP_TP100_TP':;
-
-SECTION_NUMBER 1
- '@AWHEEL.MAIN(SCH_1):MCU@AWHEEL.MCU(SCH_1):INS70964@CAIRNEOLB.TP.NORMAL(CHIPS)':
- C_PATH='@awheel.main(sch_1):mcu@awheel.mcu(sch_1):ins70964@cairneolb.\tp.normal\(chips)',
- P_PATH='@awheel.main(sch_1):page1_mcu@awheel.mcu(sch_1):page3_ins70964@cairneolb.\tp.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
