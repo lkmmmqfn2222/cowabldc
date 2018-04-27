@@ -3,18 +3,113 @@
 (    Parameter File READ                                              )
 (                                                                     )
 (    Drawing          : AWheel.brd                                    )
-(    Software Version : 16.6-2015S102                                 )
-(    Date/Time        : Tue Apr 24 18:47:14 2018                      )
+(    Software Version : 16.6-2015S088                                 )
+(    Date/Time        : Fri Apr 27 15:18:49 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Cadence/setting6.prm
-	Layout Name   : D:/WorkPrj/LUGGAGE/R2/AWheels/20180413/BRD/AWheel.brd
+	Paramfile Name : D:/Cadence/4layers_artwork.prm
+	Layout Name   : D:/WorkPrj/LUGGAGE/R2/AWHEEL/R2/R2/BRD/AWheel.brd
 
 Reading...parameter_header:
-Reading...color_table_table:
-Reading...ColorParmType:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+Reading...artwork_film:
+	Reading...art_film_type:
+	Reading...art_film_block_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
+	Reading...art_class_type:
 
 
 ..... Total number of errors: 0.
