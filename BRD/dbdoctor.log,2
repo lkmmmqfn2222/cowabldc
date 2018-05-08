@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : AWheel.brd                                    )
+(    Software Version : 16.6-2015S091                                 )
+(    Date/Time        : Fri Apr 27 16:34:25 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 0   after update: 0
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+0 warnings, 0 errors detected, 0 errors  fixed.

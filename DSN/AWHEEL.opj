@@ -19,12 +19,13 @@
     (BOM_Mode "0")
     (BOM_Report_File "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.BOM")
     (BOM_Merge_Include "FALSE")
-    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}")
     (BOM_Header "Item\tQuantity\tReference\tPart")
     (BOM_Include_File "D:\WORKPRJ\LUGGAGE\R2\AWHEELS\20180413\DSN\AWHEEL.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
-    (Open_BOM_in_Excel "FALSE")
+    (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
@@ -108,7 +109,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\netlist\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File "d:\workprj\luggage\r2\awheels\20180413\dsn\awheel.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (LED
@@ -210,12 +213,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\awheel.dsn")
-      (Path "Design Resources" ".\awheel.dsn" "MAIN")
-      (Path "Design Resources" ".\awheel.dsn" "MCU")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "MAIN")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "BLDC ENC")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "MCU")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "MOSFET DRV")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "POWER")
+      (Path "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "TSENSOR")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\awheel.dsn" "MCU" "MCU"))
+      (Select "Design Resources" "d:\workprj\luggage\r2\awheel\dsn\awheel.dsn"
+         "POWER" "POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -226,21 +240,61 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1435 52 521")
-        (Scroll "-182 0")
-        (Zoom "100")
+        (Scroll "0 128")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\R2\R2\DSN\AWHEEL.DSN")
+      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\DSN\AWHEEL.DSN")
       (Schematic "MAIN")
       (Page "MAIN"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1461 78 547")
-        (Scroll "-307 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1229 78 547")
+        (Scroll "0 120")
+        (Zoom "136")
+        (Occurrence "/MOSDRV"))
+      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\DSN\AWHEEL.DSN")
+      (Schematic "MOSFET DRV")
+      (Page "MOSFET DRV"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 1617 234 703")
+        (Scroll "0 0")
+        (Zoom "200")
+        (Occurrence "/ENC"))
+      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\DSN\AWHEEL.DSN")
+      (Schematic "BLDC ENC")
+      (Page "BLDC ENC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1383 0 469")
+        (Scroll "-221 0")
+        (Zoom "92")
         (Occurrence "/MCU"))
-      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\R2\R2\DSN\AWHEEL.DSN")
+      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\DSN\AWHEEL.DSN")
       (Schematic "MCU")
-      (Page "MCU")))
-  (MPSSessionName "Cairne")
+      (Page "MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1409 26 495")
+        (Scroll "191 131")
+        (Zoom "184")
+        (Occurrence "/POWER"))
+      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\DSN\AWHEEL.DSN")
+      (Schematic "POWER")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1435 52 521")
+        (Scroll "275 232")
+        (Zoom "200")
+        (Occurrence "/TSEN"))
+      (Path "D:\WORKPRJ\LUGGAGE\R2\AWHEEL\DSN\AWHEEL.DSN")
+      (Schematic "TSENSOR")
+      (Page "TSENSOR")))
+  (MPSSessionName "lenovo")
   (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : AWheel.brd                                    )
+(    Software Version : 16.6-2015S091                                 )
+(    Date/Time        : Fri Apr 27 16:28:53 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (-2560.000 425.000) on net HALL_IN2.
+WARNING Deleted redundant via at (-2560.000 425.000) on net HALL_IN2.
+WARNING Deleted redundant via at (-1990.000 1025.000) on net HALL_IN2.
+WARNING Deleted redundant via at (-2560.000 330.000) on net HALL_IN1.
+WARNING Deleted redundant via at (-2405.000 1030.000) on net HALL_IN1.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 0   after update: 0
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    5
+  DRC elapsed time:      00:00:01
+
+5 warnings, 0 errors detected, 0 errors  fixed.
